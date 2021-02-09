@@ -1,7 +1,7 @@
 h1
 {background-color: cyan;
 color: indigo;
-font:  1.4em "Fira Sans", serif;}
+font: italic 1.4em "Fira Sans", serif;}
 body
 {background-color: violet;
 border: solid;
@@ -9,4 +9,4 @@ border-color: black;}
 p 
 {background-color: cyan;
 color: indigo;
-font:  1.2em "cursive", serif;}
+font-family: Georgia, serif;}
