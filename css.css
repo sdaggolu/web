@@ -1,12 +1,12 @@
 
 
 body
-{
-  background-color: lemonchiffon;
-font-family: system-ui;}
+{background-color: lemonchiffon;}
+
 
 p {background-color:lightskyblue;
-  color: indianred;}
+  color: indianred;
+  font-family: system-ui}
 
 
   .block,
