@@ -8,10 +8,7 @@ p {
   font-family: system-ui}
 
 
-  .block,
-li {
-  border: 2px solid blue;
-  padding: .5em;
-list-style: none;}
-
+  img {
+  float: left;
+}
 
