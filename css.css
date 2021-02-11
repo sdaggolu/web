@@ -1,5 +1,6 @@
 
-body
-{background-color: lemonchiffon;
-border: solid;
-border-color: black;}
+
+body#page1{background-color:lemonchiffon;}
+body#page2{background-color:lightcyan;}
+body#page3{background-color:lightskyblue;}
+
