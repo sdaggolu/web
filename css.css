@@ -1,7 +1,19 @@
 
 
 body
-{background-color:lemonchiffon, 
-  lightcyan,
-lightskyblue;}
+{
+  background-color: lemonchiffon, 
+ lightcyan,
+lightskyblue;
+font-family: system-ui;}
+
+p {color: palegreen;}
+
+
+  .block,
+li {
+  border: 2px solid blue;
+  padding: .5em;
+}
+
 
