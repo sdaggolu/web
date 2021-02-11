@@ -1,6 +1,7 @@
 
 
-body#page1{background-color:lemonchiffon;}
-body#page2{background-color:lightcyan;}
-body#page3{background-color:lightskyblue;}
+body
+{background-color:lemonchiffon;}
+{background-color:lightcyan;}
+{background-color:lightskyblue;}
 
