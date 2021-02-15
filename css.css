@@ -6,6 +6,10 @@ body
 p {font-family: system-ui}
 img {float: left;
 padding: .5em;}
+p,
+ul {border: 2px 
+  solid coral;
+  padding: .5em;}
 a:hover {
  border:1px solid red;}
 h3,
@@ -16,7 +20,6 @@ ul {border: 2px
 li {border: 2px 
   solid royalblue;
   padding: .5em;}
-
 ul {display: flex;
   list-style: none;}
 .block 
