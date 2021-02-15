@@ -1,5 +1,7 @@
 
 h2 {font-family: "Georgia", serif; }
+h3 {font-family: "Georgia", serif; 
+text-decoration: underline;}
 body
 {background-color: lemonchiffon;}
 p {font-family: system-ui}
@@ -7,7 +9,7 @@ img {
   float: left;}
 a:hover {
  border:1px solid red;}
-p,
+h3,
 ul {border: 2px 
   solid forestgreen;
   padding: .5em;}
