@@ -1,37 +1,30 @@
+<p>Menu <span class="block">
+   <a href="site.html">Home</a>
+<a href="aang.html">Aang</a>
+   <a href="katara.html">Katara</a>
+   <a href="sokka.html">Sokka</a>
+   <a href="toph.html">Toph</a>
+   <a href="zuko.html">Zuko</a>
+</span> 
 
-
+h2 {font-family: "Georgia", serif; }
 body
 {background-color: lemonchiffon;}
-
-
-p {
-  font-family: system-ui}
-
-
-  img {
-  float: left;
-}
+p {font-family: system-ui}
+img {
+  float: left;}
 a:hover {
- border:1px solid red;  
-}
+ border:1px solid red;}
 p,
-
-ul {
-  border: 2px solid forestgreen;
-  padding: .5em;
-}
-
+ul {border: 2px 
+  solid forestgreen;
+  padding: .5em;}
 .block,
-li {
-  border: 2px solid royalblue;
-  padding: .5em;
-}
+li {border: 2px 
+  solid royalblue;
+  padding: .5em;}
 
-ul {
-  display: flex;
-  list-style: none;
-}
-
-.block {
-  display: block;
-}      
+ul {display: flex;
+  list-style: none;}
+.block 
+{display: block;}      
