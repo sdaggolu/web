@@ -14,11 +14,11 @@ a:hover {
  border:1px solid red;}
 h3,
 ul {border: 2px 
-  solid forestgreen;
+  solid royalblue;
+  background-color: paleturquoise;
   padding: .5em;}
 .block,
-li {border: 2px 
-  solid royalblue;
+li {background-color: lightcyan;
   padding: .5em;}
 ul {display: flex;
   list-style: none;}
