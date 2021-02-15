@@ -3,12 +3,13 @@ h2 {font-family: "Georgia", serif; }
 h4 {font-family: "Georgia", serif;}
 body
 {background-color: lemonchiffon;}
-p {font-family: system-ui}
+p {font-family: "Georgia", serif;}
 img {float: left;
 padding: .5em;}
 p,
 ul {border: 2px 
-  solid coral;
+  solid forestgreen;
+  background-color: palegreen;
   padding: .5em;}
 a:hover {
  border:1px solid red;}
