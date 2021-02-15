@@ -14,3 +14,24 @@ p {
 a:hover {
  border:1px solid red;  
 }
+p,
+
+ul {
+  border: 2px solid forestgreen;
+  padding: .5em;
+}
+
+.block,
+li {
+  border: 2px solid royalblue;
+  padding: .5em;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+.block {
+  display: block;
+}      
