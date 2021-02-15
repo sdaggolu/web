@@ -5,8 +5,8 @@ text-decoration: underline;}
 body
 {background-color: lemonchiffon;}
 p {font-family: system-ui}
-img {
-  float: left;}
+img {float: left;
+padding: .5em;}
 a:hover {
  border:1px solid red;}
 h3,
