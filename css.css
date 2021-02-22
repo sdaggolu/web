@@ -6,15 +6,16 @@ h4 {font-family: "Georgia", serif;}
 body
 {background-color: teal;}
 p {font-family: "Georgia", serif;
-margin: 30px 100px 30px 100px;}
-
-img {float: left;
-padding: .5em;}
-p,
-ul {border: 2px 
+margin: 30px 100px 30px 100px;
+border: 2px 
   solid forestgreen;
   background-color: honeydew;
   padding: .5em;}
+
+img {float: left;
+padding: .5em;}
+
+
 a:hover {background-color: mintcream;}
 
 h3 {border: 2px 
