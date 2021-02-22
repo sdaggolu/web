@@ -15,8 +15,8 @@ ul {border: 2px
   solid forestgreen;
   background-color: honeydew;
   padding: .5em;}
-a:hover {
- border:1px solid red;}
+a:hover {border:1px solid red;
+background-color: lemonchiffon;}
 h3,
 ul {border: 2px 
   solid royalblue;
