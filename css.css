@@ -23,7 +23,7 @@ h3 {border: 2px
   background-color: paleturquoise;
   padding: .5em;}
 .block,
-li {background-color: lightcyan;
+.menu {background-color: lightcyan;
   padding: .5em;}
 ul {display: flex;
   list-style: none;}
