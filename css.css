@@ -4,7 +4,8 @@ h2 {font-family: "Georgia", serif;
 background-color: azure;}
 h4 {font-family: "Georgia", serif;
 font-size: 1.2em;
-background-color: azure;}
+background-color: azure;
+margin: 30px 100px 30px 100px;}
 body
 {background-color: teal;}
 p {font-family: "Georgia", serif;
