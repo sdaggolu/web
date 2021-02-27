@@ -18,7 +18,7 @@ figure {
   float: left;
   
   text-align: center;
-  margin: 0.5em;
+  margin: 0px 5px 5px 100px;
   padding: 0.5em;
 }
 a:hover {background-color: mintcream;}
