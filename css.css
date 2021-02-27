@@ -15,7 +15,7 @@ border: 2px
   background-color: honeydew;
   }
 img {float: left;
-padding: .5em;}
+margin: 30px 100px 30px 100px;}
 a:hover {background-color: mintcream;}
 a:link {text-decoration: none;} 
 h3 {border: 2px 
