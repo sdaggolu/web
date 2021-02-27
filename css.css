@@ -13,7 +13,7 @@ margin: 30px 100px 30px 100px;
 border: 2px 
   solid forestgreen;
   background-color: honeydew;
-  }
+  padding: 0.5em; }
 img {float: left;
 margin: 30px 100px 30px 100px;}
 caption {caption-side:bottom}
