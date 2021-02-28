@@ -20,9 +20,9 @@ border: 2px
   line-height: 30px;}
 figure {float: left;
   text-align: center;
-  margin: 0px 5px 5px 300px;
-  padding: 0.5em;}
-figcaption {padding: 0.5em;}
+  margin: 0px 5px 0px 300px;
+  }
+figcaption {padding: 1.5em;}
 a:hover {background-color: mintcream;}
 a:link {text-decoration: none;} 
 h3 {border: 2px 
