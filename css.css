@@ -22,7 +22,7 @@ figure {
   float: left;
   text-align: center;
   margin: 0px 5px 5px 300px;
-  padding: 0.5em;
+  padding: 1.0em;
 }
 a:hover {background-color: mintcream;}
 a:link {text-decoration: none;} 
@@ -33,6 +33,6 @@ h3 {border: 2px
 text-align: center;}
 .block,
 .menu {background-color: lightcyan;
-  padding: .5em;
+  
 padding-left:30px;
   padding-right:30px;}  
