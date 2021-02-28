@@ -22,7 +22,7 @@ figure {float: left;
   text-align: center;
   margin: 0px 5px 0px 300px;
   }
-figcaption {padding: 1.5em;}
+figcaption {padding: 1.0em;}
 a:hover {background-color: mintcream;}
 a:link {text-decoration: none;} 
 h3 {border: 2px 
