@@ -33,4 +33,6 @@ h3 {border: 2px
 text-align: center;}
 .block,
 .menu {background-color: lightcyan;
-  padding: .5em;}  
+  padding: .5em;
+padding-left:30px;
+  padding-right:30px;}  
