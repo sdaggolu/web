@@ -1,0 +1,21 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Jeopardy</title>
+</head>
+<body>
+
+<h1>How to Play</h1>
+<ol>
+  <li>Open both the webpage and the python Program</li>
+  <li>Select a tile by typing the following in the Thonny Shell:<ul>
+  <li>The topic you want to choose, which is located on the top row, directly above your tile</li>
+  <li>The value that you want to choose which is located on the tile
+</li>
+  </ul></li>
+  <li>Finally, after the question is printed, type your answer in one or two words in the Thonny shell.
+</li>
+</ol> 
+
+</body>
+</html> 
