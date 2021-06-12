@@ -1,1 +1,28 @@
+header
+{background-color: RoyalBlue;
+color: White;
+text-align: center;}
 
+h3 {
+  border-top: 4px dotted RoyalBlue;
+  padding-top: 15px;
+border-bottom: 4px dotted RoyalBlue;
+  padding-bottom: 15px;
+}
+
+
+table
+{margin-top: 10px;
+  background-color: DarkBlue;
+  color: GoldenRod;}
+thead
+{color: White;
+}
+
+th 
+{text-align: center;
+  border: 5px solid black;}
+
+body
+{background-color: Lavender;
+font-family: Helvetica, Verdana, sans-serif}
